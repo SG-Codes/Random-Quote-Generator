@@ -5,4 +5,4 @@
 - HTML/CSS
 - JavaScript
 
-### [Live Demo](https://webd-with-sg.github.io/Random-Quote-Generator/)
+### [Live Demo](https://sg-codes.github.io/Random-Quote-Generator/)
